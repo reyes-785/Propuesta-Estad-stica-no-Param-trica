@@ -1,4 +1,4 @@
-# Propuesta-Estad-stica-no-Param-trica
+# Propuesta Estadistica no Parametrica
 
 Propuesta de proyecto materia de Estadistica no Parametrica
 - Hayni Naya
